@@ -10,11 +10,10 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=IT21279584 )
 ## My Github Status
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=IT21279584&show_icons=true)
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=it21279584&show_icons=true&locale=en&layout=compact" alt="it21279584" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IT21279584&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IT21279584&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 </br>
 
