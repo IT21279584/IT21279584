@@ -46,3 +46,5 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it21279584&label=Profile%20views&color=0e75b6&style=flat" alt="it21279584" /> </p>
+</br>
+<img src="https://raw.githubusercontent.com/IT21279584/IT21279584/output/snake.svg" alt="Snake animation" />
