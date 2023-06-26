@@ -14,7 +14,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IT21279584&show_icons=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IT21279584)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=it21279584&show_icons=true&locale=en&layout=compact" alt="it21279584" /></p>
 
 
 <p align="left">
@@ -55,10 +55,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=it21279584" alt="it21279584" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=it21279584&show_icons=true&locale=en&layout=compact" alt="it21279584" /></p>
+
 
 
