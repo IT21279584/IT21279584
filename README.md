@@ -47,4 +47,4 @@
 
 </br>
 
-![Profile views](https://gpvc.arturio.dev/IT21279584)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=it21279584&label=Profile%20views&color=0e75b6&style=flat" alt="it21279584" /> </p>
