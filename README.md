@@ -11,10 +11,10 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=HansakaJS )
 ## My Github Status
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HansakaJS&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=IT21279584&show_icons=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HansakaJS)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IT21279584)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <p align="left">
