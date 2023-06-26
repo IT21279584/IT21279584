@@ -16,7 +16,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=it21279584&show_icons=true&locale=en&layout=compact" alt="it21279584" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=it21279584" alt="it21279584" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=it21279584" alt="it21279584" /></a> </p>
 
 
 <p align="left">
@@ -51,7 +51,7 @@
 </br>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=it21279584&label=Profile%20views&color=0e75b6&style=flat" alt="it21279584" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=it21279584&label=Profile%20views&color=0e75b6&style=flat" alt="it21279584" /> </p>
 
 
 
