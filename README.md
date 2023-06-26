@@ -14,10 +14,10 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IT21279584&show_icons=true)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=it21279584&show_icons=true&locale=en&layout=compact" alt="it21279584" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=it21279584&show_icons=true&locale=en&layout=compact" alt="it21279584" /></p>
 
 
-<p align="center">
+<p align="left">
 </p>
 </br>
 
