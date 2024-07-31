@@ -2,7 +2,7 @@
   <img height="150" src="https://firebasestorage.googleapis.com/v0/b/online-80195.appspot.com/o/giphy.gif?alt=media&token=856302cf-c6a3-4c44-8282-ed0686f7d738"  />
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=0047AB&width=460&lines=Hi%2CI'm+Hansaka+Jayawarna;Nice+to+meet+you+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=0047AB&width=460&lines=Hi%2CI'm+Hansaka+Sudusinghe;Nice+to+meet+you+!)](https://git.io/typing-svg)
 
 ###
 
