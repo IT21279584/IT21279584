@@ -22,9 +22,11 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=IT21279584&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+![](https://github-readme-stats.shion.dev/api?username=IT21279584&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=IT21279584&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=IT21279584&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 
 ## My Github Status
 <div align="center">
