@@ -18,14 +18,16 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="center">🔥 My Stats</h3>
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=IT21279584&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=IT21279584&theme=dark&hide_border=false" height="170" />
+</p>
 
-![](https://github-readme-stats.shion.dev/api?username=IT21279584&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=IT21279584&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=IT21279584&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=IT21279584&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="170" />
+</p>
 
 </br>
 
