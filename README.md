@@ -53,7 +53,7 @@
 ## 🔥 My Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=IT21279584&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=false&count_private=false" height="170" />
+  <img src="https://github-readme-stats.shion.dev/api?username=IT21279584&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" height="170" />
   <img src="https://streak-stats.demolab.com/?user=IT21279584&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
