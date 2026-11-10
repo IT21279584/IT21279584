@@ -57,12 +57,7 @@
   <img src="https://github-readme-stats.shion.dev/api?username=IT21279584&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&card_width=495&border_radius=12" width="49%" alt="GitHub stats" /><img src="https://streak-stats.demolab.com/?user=IT21279584&theme=tokyonight&hide_border=true&card_width=495&card_height=195&border_radius=12" width="49%" alt="GitHub streak" />
 </p>
 
-<!-- Row 2: contribution activity graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IT21279584&theme=tokyo-night&hide_border=true&area=true&radius=12&custom_title=Contribution%20Activity" width="98%" alt="Contribution activity graph" />
-</p>
-
-<!-- Row 3: most used languages -->
+<!-- Row 2: most used languages -->
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=IT21279584&theme=tokyonight&hide_border=true&layout=compact&card_width=495&langs_count=8&border_radius=12" width="49%" alt="Most used languages" />
 </p>
