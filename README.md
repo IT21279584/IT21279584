@@ -4,7 +4,7 @@
 <!-- ===== Typing animation ===== -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Hansaka+%F0%9F%91%8B;BSc+(Hons)+in+IT+Undergraduate+%F0%9F%8E%93;React+%7C+Node.js+%7C+Kotlin+%7C+Android+%F0%9F%9A%80;Open+to+Open-Source+Collaboration+%F0%9F%A4%9D;Nice+to+meet+you+!+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Hansaka+%F0%9F%91%8B;Software+Engineer+%F0%9F%92%BB;React+%7C+Node.js+%7C+Kotlin+%7C+Android+%F0%9F%9A%80;Open+to+Open-Source+Collaboration+%F0%9F%A4%9D;Nice+to+meet+you+!+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </div>
 
@@ -25,7 +25,8 @@
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" /> About Me
 
 - 🔭 I’m currently working on this page
-- 🌱 I’m currently studying for a **BSc (Hons) in Information Technology**
+- 💼 I’m working as a **Software Engineer**
+- 🎓 **BSc (Hons) in Information Technology**
 - 👯 I’m looking to collaborate on **Open-Source Projects**
 - 📫 How to reach me: **hansakajayawarna@gmail.com**
 - ⚡ Fun fact: **I watch movies and play games** 🎬🎮
