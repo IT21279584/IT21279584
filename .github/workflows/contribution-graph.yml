@@ -1,0 +1,30 @@
+name: Generate contribution graph
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"    # every 6 hours
+  workflow_dispatch:          # lets you run it manually
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Check out the repo
+        uses: actions/checkout@v4
+
+      - name: Build the graph
+        env:
+          GH_USER: ${{ github.repository_owner }}
+        run: python3 .github/scripts/contribution_graph.py
+
+      - name: Commit the graph if it changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/contribution-graph.svg
+          git diff --cached --quiet || (git commit -m "Update contribution graph" && git push)
