@@ -1,7 +1,7 @@
 <!-- ===== Hero ===== -->
 <div align="center">
 
-  <img src="./assets/boy-coding.gif" width="300" alt="Boy coding on a laptop" />
+  <img src="./assets/boy-coding.gif" width="200" alt="Boy coding on a laptop" />
 
   <h1>Hi 👋, I'm Hansaka Sudusinghe</h1>
   <h3>Full-Stack Software Engineer · Java · Spring Boot · React.js</h3>
