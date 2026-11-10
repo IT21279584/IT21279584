@@ -2,8 +2,11 @@ name: Generate profile summary cards
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # every 12 hours
+    - cron: "0 */6 * * *"    # every 6 hours
   workflow_dispatch:          # lets you run it manually
+  push:
+    branches:
+      - main                  # also runs whenever you push to main
 
 jobs:
   build:
@@ -16,3 +19,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
+          UTC_OFFSET: 5.5
