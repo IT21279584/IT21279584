@@ -4,7 +4,7 @@
 <!-- ===== Typing animation ===== -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Hansaka+%F0%9F%91%8B;Software+Engineer+%F0%9F%92%BB;Java+%7C+Spring+Boot+%7C+React.js+%F0%9F%9A%80;Building+Enterprise+Applications+%F0%9F%8F%A2;Open+to+Open-Source+Collaboration+%F0%9F%A4%9D;Nice+to+meet+you+!+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Hansaka+%F0%9F%91%8B;Full-Stack+Software+Engineer+%F0%9F%92%BB;Java+%7C+Spring+Boot+%7C+React.js+%F0%9F%9A%80;Full-Stack+Web+%26+Enterprise+Apps+%F0%9F%8F%A2;Open+to+Open-Source+Collaboration+%F0%9F%A4%9D;Nice+to+meet+you+!+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </div>
 
@@ -24,11 +24,11 @@
 
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" /> About Me
 
-Software Engineer focused on building **enterprise applications** with **Java, Spring Boot and React.js**: scalable, secure backends and clean, responsive UIs. I care about writing code that's reliable, well-structured and easy to maintain.
+**Full-Stack Software Engineer** focused on building **web and enterprise applications** with **Java, Spring Boot and React.js**: scalable, secure backends and clean, responsive UIs. I care about writing code that's reliable, well-structured and easy to maintain.
 
-- 💼 **Role:** Software Engineer
+- 💼 **Role:** Full-Stack Software Engineer
 - 🎓 **Education:** BSc (Hons) in IT, specialising in Software Engineering
-- 🏢 **Focus:** Enterprise applications with Java & Spring Boot (backend) · React.js (frontend)
+- 🏢 **Focus:** Full-stack web & enterprise applications: Java & Spring Boot (backend) · React.js (frontend)
 - 🤝 **Open to:** Collaborating on open-source projects
 - 📫 **Contact:** [hansakajayawarna@gmail.com](mailto:hansakajayawarna@gmail.com)
 - 🎮 **Off the clock:** Movies & games
