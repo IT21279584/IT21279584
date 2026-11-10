@@ -1,24 +1,30 @@
-<!-- ===== Animated wave header ===== -->
-<img src="./assets/header.svg" width="100%" alt="Header" />
-
-<!-- ===== Typing animation ===== -->
+<!-- ===== Hero ===== -->
 <div align="center">
+
+  <h1>Hi 👋, I'm Hansaka Sudusinghe</h1>
+  <h3>Full-Stack Software Engineer · Java · Spring Boot · React.js</h3>
+
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Hansaka+%F0%9F%91%8B;Full-Stack+Software+Engineer+%F0%9F%92%BB;Java+%7C+Spring+Boot+%7C+React.js+%F0%9F%9A%80;Full-Stack+Web+%26+Enterprise+Apps+%F0%9F%8F%A2;Open+to+Open-Source+Collaboration+%F0%9F%A4%9D;Nice+to+meet+you+!+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=520&lines=Full-Stack+Web+%26+Enterprise+Apps+%F0%9F%8F%A2;Scalable+Spring+Boot+Backends+%E2%9A%99%EF%B8%8F;Clean%2C+Responsive+React+UIs+%F0%9F%8E%A8;Open+to+Open-Source+Collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
   </a>
-</div>
 
-<div align="center">
+  <br/>
+
   <img height="150" src="https://firebasestorage.googleapis.com/v0/b/online-80195.appspot.com/o/giphy.gif?alt=media&token=856302cf-c6a3-4c44-8282-ed0686f7d738" />
-</div>
 
-<!-- ===== Badges ===== -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=it21279584&label=Profile%20views&color=0047AB&style=for-the-badge" alt="Profile views" />
-  <a href="https://github.com/IT21279584?tab=followers">
-    <img src="https://img.shields.io/github/followers/IT21279584?label=Followers&style=for-the-badge&color=00C9FF&logo=github" alt="Followers" />
-  </a>
-</p>
+  <br/><br/>
+
+  <a href="https://www.linkedin.com/in/hansaka-sudusinghe-3b8677215" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:hansakajayawarna@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.facebook.com/hansaka.jayawarna.3" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://www.instagram.com/hansaka_js/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+
+  <br/>
+
+  <img src="https://komarev.com/ghpvc/?username=it21279584&label=Profile%20views&color=0047AB&style=flat-square" alt="Profile views" />
+  <a href="https://github.com/IT21279584?tab=followers"><img src="https://img.shields.io/github/followers/IT21279584?label=Followers&style=flat-square&color=00C9FF&logo=github" alt="Followers" /></a>
+
+</div>
 
 ---
 
@@ -76,22 +82,6 @@
 
 ---
 
-## 🤝 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/hansaka-sudusinghe-3b8677215" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/hansaka.jayawarna.3" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/hansaka_js/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:hansakajayawarna@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<!-- ===== Animated wave footer ===== -->
-<img src="./assets/footer.svg" width="100%" alt="Footer" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=480&lines=Thanks+for+visiting!+%E2%AD%90;Let's+build+something+great+together+%F0%9F%9A%80" alt="Thanks for visiting" />
+</div>
