@@ -1,6 +1,8 @@
 <!-- ===== Hero ===== -->
 <div align="center">
 
+  <img src="./assets/boy-coding.gif" width="300" alt="Boy coding on a laptop" />
+
   <h1>Hi 👋, I'm Hansaka Sudusinghe</h1>
   <h3>Full-Stack Software Engineer · Java · Spring Boot · React.js</h3>
 
@@ -8,11 +10,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=520&lines=Full-Stack+Web+%26+Enterprise+Apps+%F0%9F%8F%A2;Scalable+Spring+Boot+Backends+%E2%9A%99%EF%B8%8F;Clean%2C+Responsive+React+UIs+%F0%9F%8E%A8;Open+to+Open-Source+Collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
   </a>
 
-  <br/>
-
-  <img height="150" src="https://firebasestorage.googleapis.com/v0/b/online-80195.appspot.com/o/giphy.gif?alt=media&token=856302cf-c6a3-4c44-8282-ed0686f7d738" />
-
   <br/><br/>
+
 
   <a href="https://www.linkedin.com/in/hansaka-sudusinghe-3b8677215" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:hansakajayawarna@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
