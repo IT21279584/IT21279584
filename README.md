@@ -53,7 +53,7 @@
 ## 🔥 My Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=IT21279584&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" width="49%" alt="GitHub stats" /><img src="https://streak-stats.demolab.com/?user=IT21279584&theme=tokyonight&hide_border=true" width="49%" alt="GitHub streak" />
+  <img src="https://github-readme-stats.shion.dev/api?username=IT21279584&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&card_width=495" width="49%" alt="GitHub stats" /><img src="https://streak-stats.demolab.com/?user=IT21279584&theme=tokyonight&hide_border=true&card_width=495&card_height=195" width="49%" alt="GitHub streak" />
 </p>
 
 <p align="center">
