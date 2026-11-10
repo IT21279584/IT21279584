@@ -14,7 +14,11 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - name: Check out the repo
+        uses: actions/checkout@v4
+
+      - name: Generate summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
